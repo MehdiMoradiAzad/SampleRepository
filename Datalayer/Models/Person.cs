@@ -19,5 +19,7 @@ namespace Datalayer.Models
         public string Family { get; set; }
         [MaxLength(150)]
         public string WebSite { get; set; }
+       [MaxLength(150)]
+        public string WebSiteNew { get; set; }
     }
 }
