@@ -1,0 +1,14 @@
+c:\users\a.nouri\source\repos\Repository\Datalayer\bin\Debug\Datalayer.dll.config
+c:\users\a.nouri\source\repos\Repository\Datalayer\bin\Debug\Datalayer.dll
+c:\users\a.nouri\source\repos\Repository\Datalayer\bin\Debug\Datalayer.pdb
+c:\users\a.nouri\source\repos\Repository\Datalayer\bin\Debug\EntityFramework.dll
+c:\users\a.nouri\source\repos\Repository\Datalayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\a.nouri\source\repos\Repository\Datalayer\bin\Debug\EntityFramework.xml
+c:\users\a.nouri\source\repos\Repository\Datalayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\a.nouri\source\repos\Repository\Datalayer\obj\Debug\Datalayer.csproj.CoreCompileInputs.cache
+c:\users\a.nouri\source\repos\Repository\Datalayer\obj\Debug\Datalayer.csproj.CopyComplete
+c:\users\a.nouri\source\repos\Repository\Datalayer\obj\Debug\Datalayer.dll
+c:\users\a.nouri\source\repos\Repository\Datalayer\obj\Debug\Datalayer.pdb
+c:\users\a.nouri\source\repos\Repository\Datalayer\obj\Debug\Datalayer.Migrations.createdb.resources
+c:\users\a.nouri\source\repos\Repository\Datalayer\obj\Debug\Datalayer.csproj.GenerateResource.cache
+C:\Users\a.nouri\source\repos\Repository\Datalayer\obj\Debug\Datalayer.csprojResolveAssemblyReference.cache
